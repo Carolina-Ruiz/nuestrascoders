@@ -1,0 +1,59 @@
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 24px;
+}
+hr {
+	align-self: left;
+	width: 130px;
+	height: 10px;
+	color: black;
+	background-color: black;
+	margin-left: 0;
+	margin-top: 2px;
+}
+
+p { 
+	margin: 124px 8px 3px 29px;
+	font-family: 'Oswald', sans-serif;
+	text-align: right; 
+	color: white;
+}
+.coders {
+	width: 150px;
+	height: 150px;
+	float: left; 
+	margin: 20px 12px 0 0;
+	background-repeat: no-repeat; 
+}
+
+.foto1 {
+	background-image: url(../img/mujer.jpg);
+	background-size: 157%;
+
+}
+.foto2 {
+	background-image: url(../img/chinita.jpg);
+	background-size: 193%;
+}
+
+
+.foto3 {
+	background-image: url(../img/china.jpg);
+	background-size: 116%;
+}
+
+.foto4{
+	background-image: url(../img/chilena.jpg);
+	clear: left; /* para que bajen*/
+	background-size: 105%;
+}
+
+.foto5 {
+	background-image: url(../img/mexicana.jpg);
+	background-size: 178%;
+}
+ 
+.foto6 {
+	background-image: url(../img/boliviana.jpg);
+	background-size: 100%;
+}
